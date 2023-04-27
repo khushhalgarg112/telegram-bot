@@ -7,7 +7,7 @@ import json
 
 
 bot = telebot.TeleBot("6080496030:AAGY6_ajv8qiScW-sl-iE-oxqYg8rQaPfjc")
-affiliate_id = "khushaldailyu-21"
+affiliate_id = "khushalgarg09-21"
 proxy_url = "https://cors-anywhere.herokuapp.com/"
 
 
